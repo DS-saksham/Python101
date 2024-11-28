@@ -6,3 +6,6 @@ myset_2 = set("Hello World!") # Here the data are not in the right order
 print(myset_2)
 myset.add(69)
 print(myset)
+
+if 'h' in myset_2:
+    print("Yes")
