@@ -7,5 +7,9 @@ print(myset_2)
 myset.add(69)
 print(myset)
 
-if 'h' in myset_2:
+if 'H' in myset_2:
     print("Yes")
+
+# We can do the union, intersection , difference and symmetric difference of the different sets
+
+# Disjoint sets :: The sets that have no any any common elements in 2 sets
