@@ -13,3 +13,7 @@ if 'H' in myset_2:
 # We can do the union, intersection , difference and symmetric difference of the different sets
 
 # Disjoint sets :: The sets that have no any any common elements in 2 sets
+
+# Frozensets:: With the use of frozen set we can make the sets imutables(We cannot and nither modify the elements of the sets)
+frozen_set = frozenset([1,2,3,4,5,8])
+print(frozen_set)
